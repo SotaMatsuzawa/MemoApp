@@ -101,5 +101,5 @@ const emptyStyles = StyleSheet.create({
   },
   button: {
     alignSelf: 'center',
-  }
+  },
 });
